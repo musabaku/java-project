@@ -1,0 +1,13 @@
+eat,2d
+sleep,5d
+drink,1d
+
+hisi,2d
+
+
+dencj,2d
+
+
+san,3d
+
+jisxsx,3d
