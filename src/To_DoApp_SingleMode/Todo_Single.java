@@ -29,6 +29,7 @@ public class Todo_Single {
             System.out.println("**********************");
         }
     }
+// this is a remove tasks function
 
     private static void removeTasks(int i) {
         tasks.remove(i - 1);
