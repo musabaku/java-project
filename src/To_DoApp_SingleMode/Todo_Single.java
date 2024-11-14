@@ -44,7 +44,7 @@ public class Todo_Single {
         }
 
     }
-
+// this is a view completed tasks function
     private static void viewCompletedTasks() {
 //  ArrayList<String> list = new ArrayList<>();
 //  list.add(t)
